@@ -1,0 +1,22 @@
+.HeaderStyle{
+    position: relative;
+    text-align: center;
+  
+}
+
+.pageName{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 4rem;
+    color: #fff;
+    position: absolute;
+    top: 6%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.welcome{
+    font-family: 'Mukta', sans-serif;
+    font-size: 1.5rem;
+    color: #555;
+}

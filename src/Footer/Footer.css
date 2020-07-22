@@ -1,0 +1,12 @@
+.FooterStyle{
+    background-color: #121212;
+    color: #fff;
+    padding: .5%;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: .75rem;
+
+}
+
+.pFooter{
+    text-align: center;
+}
